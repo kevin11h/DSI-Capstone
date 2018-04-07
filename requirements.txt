@@ -1,0 +1,15 @@
+pykernel
+pillow
+opencv-python
+pytesseract
+matplotlib
+pandas
+seaborn
+requests
+selenium
+bs4
+sklearn
+lxml
+future
+
+
