@@ -9,12 +9,16 @@ To run the project follow these instructions:
 2. `cd DSI-Capstone/`
 
 3. create a virtual environment with pyhton 3 named 'env' (this part is very important):
+
 create: `virtualenv -p python3 env`
 activate: `source env/bin/activate`
 
-4. install requirements: `pip install -r requirements.txt`
+4. install requirements: 
+
+`pip install -r requirements.txt`
 
 5. now to make jupyter notebook use our environment install it as a kernel:
+
 `python -m ipykernel install --user --name env --display-name "ENV"`
 
 6. open .ipynb files with Jupyter notebook and then select ENV from the kernel setting
