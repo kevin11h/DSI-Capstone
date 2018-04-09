@@ -1,5 +1,5 @@
 # DSI-Capstone
-Capstone work submission for General Assembly Data Science Intensive programm
+Capstone work submission for General Assembly Data Science Intensive program
 
 
 To run the project follow these instructions:
@@ -21,7 +21,7 @@ activate: `source env/bin/activate`
 
 `python -m ipykernel install --user --name env --display-name "ENV"`
 
-6. open .ipynb files with Jupyter notebook and then select ENV from the kernel setting
+6. open .ipynb files with Jupyter notebook and then select ENV from the kernel settings: kernel -> change kernel -> ENV
 
 7. run notebook. 
 
