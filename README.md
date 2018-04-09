@@ -27,7 +27,7 @@ activate: `source env/bin/activate`
 7. run notebook! note: it will take couple minutes for it to finish as we are going to load chromedrive and perform quite a few crawling jobs.  
 
 
-This repo has been tested on Linux and if those steps are followed correcly everything should work. I cannot vouch for Mac, and god forbid you try setting it up on Windows! 
+This repo has been tested on Linux and if those steps are followed correctly everything should work. I cannot vouch for Mac, and god forbid you try setting it up on Windows! 
 
 
 
