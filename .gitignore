@@ -4,3 +4,5 @@ env/*
 images/*
 !images/.gitkeep
 imports/__pycache__/*
+*.*~
+__pycache__/*
